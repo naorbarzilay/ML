@@ -1,6 +1,6 @@
 # ML homeworks
 
-### HW1:
+### <ins>HW1:</ins> 
 
 #### section A:
 
@@ -17,7 +17,8 @@
 #### section D (Bonus):
 * Gradient Boost Regressor
 
-### HW2:
+### <ins>HW2:</ins> 
+
 #### section A:
 * Data Exploration and Visualization
 
