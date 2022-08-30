@@ -41,3 +41,28 @@
 
 #### Section F (Clustering - Bonus) 
 * KMeans
+
+### <ins>HW3:</ins> 
+
+#### Section A:  
+* Visualization
+* Data Exploration and Pre-processing
+
+#### Section B: Dimensionality Reduction
+* PCA
+* T-SNE
+* Worst/Best features
+
+#### Section C (Regression 2010 and 2012 and comparison)
+* Gradient Boosting 
+* Random Forest 
+* AdaBoost
+
+#### Section D (Classification) 
+* SVM
+* Decision Tree 
+* Random Forest 
+* Gradient Boosting
+
+#### Section E (Bonus)
+* Predict the next election
